@@ -22,6 +22,14 @@ public class Main {
         s.a = 3.0;
         s.b = 4.0;
         s.c = 5.0;
+        //		int i;
+//
+//		int * p = (int *)malloc(sizeof(int));
+//		A * q = (A *)malloc(sizeof(A));
+//
+//
+//		Triangle * r = (Triangle * )malloc(sizeof(Triangle));
+
 //        在java中double和float都用%f输出
         System.out.printf("%g   %g\n", s.perimetre(), s.aire());
     }
